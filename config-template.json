@@ -1,0 +1,17 @@
+{
+    "HOST_PORT": 0,
+    "STORAGE_PORT": 0,
+    "PORT": 0,
+    "AWS_PORT": 0,
+    "HOST": "",
+    "REPL_URL": "",
+    "GLITCH_URL": "",
+    "AWS_URL": "",
+    "INTERVAL": 0,
+    "COUNT": 0,
+    "CARD": "",
+    "COOKIE": "",
+    "CARDS": [],
+    "COOKIES": {
+    }
+}
